@@ -1,0 +1,11 @@
+{
+  "validated_at": "2026-07-22",
+  "frontmatter": "PASS",
+  "referenced_paths": "PASS",
+  "markdown_code_fences": "PASS",
+  "html_parse": "PASS",
+  "typo_folder_fixed": true,
+  "macos_and_git_artifacts_removed": true,
+  "file_count": 86,
+  "missing_references": []
+}
